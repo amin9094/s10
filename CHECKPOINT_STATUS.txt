@@ -1,0 +1,1 @@
+SENTINEL 9.0.0-candidate.31: complete local candidate quality gate passed; 2517 tests passed, zero failed/skipped; 564 handlers; coverage 45%, critical coverage 79%. Read docs/HANDOFF_FA.md and docs/REVIEW45_STATUS.json. External production acceptance remains pending.
